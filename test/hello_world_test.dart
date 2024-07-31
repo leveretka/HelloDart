@@ -7,7 +7,7 @@ void main() {
   });
 
   test('test hello2', () {
-    hello2(0);
+    hello2(0, 0);
   });
 
   test('test hello3', () {
